@@ -1,8 +1,6 @@
 # Simple & Organized Login Form - Example for Nicholas
 import tkinter as tk
 from tkinter import messagebox
-import subprocess
-import sys
 
 # Create main window
 root = tk.Tk()
